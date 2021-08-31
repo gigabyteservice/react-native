@@ -24,7 +24,7 @@ NSDictionary* RCTGetReactNativeVersion(void)
                     RCTVersionMajor: @(0),
                     RCTVersionMinor: @(0),
                     RCTVersionPatch: @(0),
-                    RCTVersionPrerelease: [NSNull null],
+                    RCTVersionPrerelease: @"jitsi.2",
                     };
   });
   return __rnVersion;
