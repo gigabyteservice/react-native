@@ -3,14 +3,14 @@
     React Native
   </a>
 </h1>
-
+<h1 align="center"> Added build artifacts of the Jitsi to the latest  <a href="https://github.com/facebook/react-native/commit/cbe0e6bf27c0dddfdba627f66c4b8db69c534743"> Reat native </a> </h1>
 <p align="center">
   <strong>Learn once, write anywhere:</strong><br>
   Build mobile apps with React.
 </p>
 
 <p align="center">
-  <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
+  <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE"> 
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
   </a>
   <a href="https://circleci.com/gh/facebook/react-native">
